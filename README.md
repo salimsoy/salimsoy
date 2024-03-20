@@ -1,4 +1,3 @@
-![MasterHead](https://wallpapers.com/downloads/high/technology-linkedin-background-dce01jsbpnn0z2ej.webp)
 [![MasterHead](https://wallpapers.com/downloads/high/technology-linkedin-background-dce01jsbpnn0z2ej.webp)
 <h1 align="center">Hi 👋, I'm Salim</h1>
 <h3 align="center"></h3>
