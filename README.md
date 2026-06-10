@@ -25,7 +25,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏆 AI-Powered Smart Shopping Cart — TÜBİTAK 2209-A Funded
+### 🏆 AI-Powered Smart Shopping Cart
 > Undergraduate thesis project: real-time product detection and fraud prevention at checkout
 
 - Trained **YOLO12s** on a 16-class custom dataset (dual T4 GPU, transfer learning + custom augmentation) → **mAP50 = 0.995**
