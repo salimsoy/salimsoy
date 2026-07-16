@@ -4,7 +4,7 @@
 <h3 align="center">Computer Vision & Deep Learning Engineer · Edge AI · Real-Time Systems</h3>
 
 <p align="center">
-  Final-year Computer Engineering student @ Pamukkale University (GPA: 3.32/4.00) <br/>
+  Computer Engineer @ Pamukkale University (GPA: 3.38/4.00) <br/>
   1+ year internship experience building real-time AI systems for industrial defect detection at <strong>Tarsier Technology</strong> <br/>
   Specializing in end-to-end AI pipelines: data → training → ONNX optimization → edge deployment
 </p>
